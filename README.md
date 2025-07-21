@@ -7,7 +7,7 @@ Discord sunucularındaki veya DM’lerdeki mesajları CSV formatında arşivleye
 ## Kurulum
 
 ```bash
-pip install discord.py-self
+pip install discord.py-self```
 
 
 
@@ -19,4 +19,4 @@ A self-bot that archives messages from Discord servers or DMs into CSV format.
 ## Kurulum
 
 ```bash
-pip install discord.py-self
+pip install discord.py-self```
